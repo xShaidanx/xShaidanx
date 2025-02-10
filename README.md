@@ -3,6 +3,7 @@
 He desarrollado múltiples proyectos de manera independiente para distintos clientes. Creando tanto paginas como aplicaciones
 web con distintas tecnologías enlazadas entre si. Creando proyectos desde cero o manteniendo algunos. Gestionando múltiples proyectos 
 en paralelo en algunos casos. Ahora estoy mas enfocado en mi perfil Front-End, ya que quiero expandirlo y perfeccionarlo.
+
 Perfil en Linkedin:  [Linkedin](https://www.linkedin.com/in/miguel-angel-alvarez-garrido-49218234b/)
 <!--
 **xShaidanx/xShaidanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
