@@ -1,4 +1,5 @@
-## Miguel A. Alvarez profile
+![Fondo GitHub](https://github.com/user-attachments/assets/663bd7d3-b7ee-483e-a2d8-2f1162c73e04)
+## Perfil de Miguel A. Alvarez 
 
 Perfil en Linkedin:  [Linkedin](https://www.linkedin.com/in/miguel-angel-alvarez-garrido-49218234b/)
 <!--
@@ -15,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
